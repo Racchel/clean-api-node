@@ -7,7 +7,9 @@
     "test": "jest"
   },
   "standard": {
-    "env": ["jest"]
+    "env": [
+      "jest"
+    ]
   },
   "repository": {
     "type": "git",
@@ -21,7 +23,7 @@
   },
   "homepage": "https://github.com/Racchel/clean-api-node#readme",
   "devDependencies": {
-    "husky": "^7.0.4",
+    "husky": "^4.3.8",
     "jest": "^27.4.7",
     "lint-staged": "^12.3.3",
     "standard": "^16.0.4"
