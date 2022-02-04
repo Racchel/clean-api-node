@@ -49,7 +49,7 @@ module.exports = () => {
 }
 
 class SignUpRouter {
-   async route (req, res) => {                        // recebe automaticamente o req e res
+   async route (req, res) {                        // recebe automaticamente o req e res
       const { email, password, repeatPassword } = req.body
       if (password === repeatPassword) {
          const user = await AccountModel.create({ email, password, repeatPassword })
@@ -86,7 +86,7 @@ const express = require('express')
 const router = express.Router()
 
 class SignUpRouter {
-   async route (req, res) => {                        // recebe automaticamente o req e res
+   async route (req, res) {                        // recebe automaticamente o req e res
       const { email, password, repeatPassword } = req.body
       new SignUpUseCase().signUp (email, password, repeatPassword)
       res.status(400).json({ error: 'Password must be equal to repeatPassword' })
@@ -135,7 +135,7 @@ const express = require('express')
 const router = express.Router()
 
 class SignUpRouter {
-   async route (req, res) => {                        // recebe automaticamente o req e res
+   async route (req, res) {                        // recebe automaticamente o req e res
       const { email, password, repeatPassword } = req.body
       new SignUpUseCase().signUp (email, password, repeatPassword)
       res.status(400).json({ error: 'Password must be equal to repeatPassword' })
@@ -215,7 +215,7 @@ class ExpressRouterAdapter {
 // PRESENTATION LAYER -> O que a API expõe para o client
 // signup-router.js
 class SignUpRouter {
-   async route (httpRequest) => {                        // recebe um objeto httpRequest
+   async route (httpRequest) {                        // recebe um objeto httpRequest
       const { email, password, repeatPassword } = httpRequest.body
       const user = await new SignUpUseCase().signUp (email, password, repeatPassword)
       return {
