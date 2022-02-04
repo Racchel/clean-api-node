@@ -1,3 +1,5 @@
+[#1 API em NodeJS com Clean Architecture e TDD - Project Setup](https://www.youtube.com/watch?v=vV1wQ6GFH0A)
+
 Standard é como um Eslint, mas usa o padrão standard do JS:
 - não usa ;
 - não deixa você colocar uma , sobrando no final do objeto
