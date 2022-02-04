@@ -1,5 +1,8 @@
 # Estudo de caso de arquitetura limpa
 
+link do vídeo de referência:
+[#2 API em NodeJS com Clean Architecture e TDD - Decoupling Components](https://www.youtube.com/watch?v=sKcer-tzYtk)
+
 ## Código original
 
 **O que esse código faz?:** 
