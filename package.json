@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Racchel/clean-api-node/issues"
   },
-  "homepage": "https://github.com/Racchel/clean-api-node#readme"
+  "homepage": "https://github.com/Racchel/clean-api-node#readme",
+  "devDependencies": {
+    "standard": "^16.0.4"
+  }
 }
