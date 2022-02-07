@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1644250776793" clover="3.2.0">
-  <project timestamp="1644250776793" name="All files">
+<coverage generated="1644251248613" clover="3.2.0">
+  <project timestamp="1644251248613" name="All files">
     <metrics statements="96" coveredstatements="96" conditionals="0" coveredconditionals="0" methods="10" coveredmethods="10" elements="106" coveredelements="106" complexity="0" loc="96" ncloc="96" packages="2" files="6" classes="6"/>
     <package name="helpers">
       <metrics statements="58" coveredstatements="58" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="8"/>
@@ -18,11 +18,11 @@
         <line num="10" count="3" type="stmt"/>
         <line num="11" count="1" type="stmt"/>
         <line num="12" count="1" type="stmt"/>
-        <line num="13" count="5" type="stmt"/>
-        <line num="14" count="5" type="stmt"/>
-        <line num="15" count="5" type="stmt"/>
-        <line num="16" count="5" type="stmt"/>
-        <line num="17" count="5" type="stmt"/>
+        <line num="13" count="7" type="stmt"/>
+        <line num="14" count="7" type="stmt"/>
+        <line num="15" count="7" type="stmt"/>
+        <line num="16" count="7" type="stmt"/>
+        <line num="17" count="7" type="stmt"/>
         <line num="18" count="1" type="stmt"/>
         <line num="19" count="1" type="stmt"/>
         <line num="20" count="2" type="stmt"/>
@@ -63,9 +63,9 @@
         <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="1" count="1" type="stmt"/>
         <line num="2" count="1" type="stmt"/>
-        <line num="3" count="10" type="stmt"/>
-        <line num="4" count="10" type="stmt"/>
-        <line num="5" count="10" type="stmt"/>
+        <line num="3" count="14" type="stmt"/>
+        <line num="4" count="14" type="stmt"/>
+        <line num="5" count="14" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
       </file>
       <file name="unauthorized-error.js" path="/home/racchel/Documentos/codes/clean-node-api/src/presentation/helpers/unauthorized-error.js">
@@ -88,37 +88,37 @@
         <line num="4" count="1" type="stmt"/>
         <line num="5" count="1" type="stmt"/>
         <line num="6" count="1" type="stmt"/>
-        <line num="7" count="11" type="stmt"/>
-        <line num="8" count="11" type="stmt"/>
-        <line num="9" count="11" type="stmt"/>
+        <line num="7" count="13" type="stmt"/>
+        <line num="8" count="13" type="stmt"/>
+        <line num="9" count="13" type="stmt"/>
         <line num="10" count="1" type="stmt"/>
         <line num="11" count="1" type="stmt"/>
-        <line num="12" count="14" type="stmt"/>
-        <line num="13" count="14" type="stmt"/>
-        <line num="14" count="14" type="stmt"/>
-        <line num="15" count="14" type="stmt"/>
-        <line num="16" count="14" type="stmt"/>
-        <line num="17" count="14" type="stmt"/>
-        <line num="18" count="14" type="stmt"/>
-        <line num="19" count="14" type="stmt"/>
-        <line num="20" count="14" type="stmt"/>
-        <line num="21" count="14" type="stmt"/>
-        <line num="22" count="14" type="stmt"/>
-        <line num="23" count="14" type="stmt"/>
-        <line num="24" count="14" type="stmt"/>
-        <line num="25" count="14" type="stmt"/>
-        <line num="26" count="14" type="stmt"/>
-        <line num="27" count="14" type="stmt"/>
-        <line num="28" count="14" type="stmt"/>
-        <line num="29" count="14" type="stmt"/>
-        <line num="30" count="14" type="stmt"/>
-        <line num="31" count="14" type="stmt"/>
-        <line num="32" count="14" type="stmt"/>
-        <line num="33" count="14" type="stmt"/>
-        <line num="34" count="14" type="stmt"/>
-        <line num="35" count="14" type="stmt"/>
-        <line num="36" count="14" type="stmt"/>
-        <line num="37" count="14" type="stmt"/>
+        <line num="12" count="16" type="stmt"/>
+        <line num="13" count="16" type="stmt"/>
+        <line num="14" count="16" type="stmt"/>
+        <line num="15" count="16" type="stmt"/>
+        <line num="16" count="16" type="stmt"/>
+        <line num="17" count="16" type="stmt"/>
+        <line num="18" count="16" type="stmt"/>
+        <line num="19" count="16" type="stmt"/>
+        <line num="20" count="16" type="stmt"/>
+        <line num="21" count="16" type="stmt"/>
+        <line num="22" count="16" type="stmt"/>
+        <line num="23" count="16" type="stmt"/>
+        <line num="24" count="16" type="stmt"/>
+        <line num="25" count="16" type="stmt"/>
+        <line num="26" count="16" type="stmt"/>
+        <line num="27" count="16" type="stmt"/>
+        <line num="28" count="16" type="stmt"/>
+        <line num="29" count="16" type="stmt"/>
+        <line num="30" count="16" type="stmt"/>
+        <line num="31" count="16" type="stmt"/>
+        <line num="32" count="16" type="stmt"/>
+        <line num="33" count="16" type="stmt"/>
+        <line num="34" count="16" type="stmt"/>
+        <line num="35" count="16" type="stmt"/>
+        <line num="36" count="16" type="stmt"/>
+        <line num="37" count="16" type="stmt"/>
         <line num="38" count="1" type="stmt"/>
       </file>
     </package>
