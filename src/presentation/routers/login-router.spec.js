@@ -2,7 +2,7 @@ const LoginRouter = require('./login-router')
 const {
   MissingParamError,
   InvalidParamError
-} = require('../utils/generic-errors')
+} = require('../../utils/generic-errors')
 const {
   ServerError,
   UnauthorizedError
